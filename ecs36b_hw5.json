@@ -18,7 +18,7 @@
         "params": {
             "action": "locate object",
 	    "class_id": "class name",
-	    "object_id": "class name",
+	    "object_id": "class name"
         },
         "returns": {
             "action": "response",
